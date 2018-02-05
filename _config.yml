@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Sacha M. O. Siani"
-  avatar           : "avatar.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "BSc Environmental and Sanitary Engineering, MSc Remote Sensing"
   location         : "São José dos Campos"
   employer         :
