@@ -6,7 +6,7 @@ author_profile: true
 
 ##### 
 <address>
-  <b National Institute for Space Research -- INPE />
+  **National Institute for Space Research -- INPE**
   <br /> 
   Av. dos Astronautas, 1758 -- SERE, office 6
   <br /> 
