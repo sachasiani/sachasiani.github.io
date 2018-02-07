@@ -4,9 +4,10 @@ title: "Contact"
 author_profile: true
 ---
 
+
+**National Institute for Space Research -- INPE**
+ 
 <address>
-  **National Institute for Space Research -- INPE**
-  <br /> 
   Av. dos Astronautas, 1758 -- SERE, office 6
   <br /> 
   Jardim da Granja - CEP 12227-010
