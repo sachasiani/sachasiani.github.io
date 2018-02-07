@@ -4,7 +4,6 @@ title: "Contact"
 author_profile: true
 ---
 
-##### 
 <address>
   **National Institute for Space Research -- INPE**
   <br /> 
