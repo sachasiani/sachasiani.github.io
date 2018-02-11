@@ -1,7 +1,7 @@
 ---
 title: "Spatial analysis of enforcement for reducing deforestation in the Brazilian Amazon: an exploratory study in Pará state"
 collection: publications
-permalink: /publication/Siani_etal-2017-SBSR_a
+permalink: /publication/Siani_etal-2017-SBSR
 excerpt: 'Law enforcement; Deforestation; Protected Area; Spatial point pattern analysis.'
 date: 2017-06-01
 venue: 'Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos.'

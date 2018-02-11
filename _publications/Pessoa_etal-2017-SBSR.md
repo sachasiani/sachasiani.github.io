@@ -1,7 +1,7 @@
 ---
 title: "The role of Protected Areas on active fires occurrence: an exploratory study in Acre state, Brazilian Amazon"
 collection: publications
-permalink: /publication/Siani_etal-2017-SBSR_b
+permalink: /publication/Pessoa_etal-2017-SBSR
 excerpt: 'Protected Area; MODIS; Active fire, Fire density.'
 date: 2017-05-31
 venue: 'Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos.'

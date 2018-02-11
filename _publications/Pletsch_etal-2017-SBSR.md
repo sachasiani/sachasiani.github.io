@@ -1,7 +1,7 @@
 ---
 title: "Data mining applied to temporal dynamics of deforestation pattern: a study case in Southern Amazon forest, Brazil"
 collection: publications
-permalink: /publication/Siani_etal-2017-SBSR_c
+permalink: /publication/Pletsch_etal-2017-SBSR
 excerpt: 'Data mining, Dynamics of deforestation, Landscape metrics'
 date: 2017-05-31
 venue: 'Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos.'
