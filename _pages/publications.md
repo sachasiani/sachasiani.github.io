@@ -19,7 +19,7 @@ Pletsch, M. A. J. S., Körting, T. S., Escada, M. I. S., & **Siani, S. M. O.** (
 
 França, D. G. M., Anderson, L. O., Virgílio, L. R.; **Siani, S. M. O.**, & Maia, M. R. S. A. (2017). &quot;Segmentation as a pseudo-spatial resolution optimization method for Sentinel-2A images applied to sand pit detection in Cruzeiro do Sul, Acre.&quot; In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. 8000-8007). São José dos Campos: INPE.
 
-Moura, Y., Galvão, L., Anderson, L., Siani, S., & Aragão, L. (2017). Use of Green-Red Normalized Difference (GRND) index to evaluate large-scale canopy phenology in tropical forests. In EGU General Assembly 2017 (Vol. 19, p. 10162). Vienna.
+Moura, Y., Galvão, L., Anderson, L., **Siani, S. M. O.**, & Aragão, L. (2017). Use of Green-Red Normalized Difference (GRND) index to evaluate large-scale canopy phenology in tropical forests. In EGU General Assembly 2017 (Vol. 19, p. 10162). Vienna.
 
 **Siani, S. M. O.**, Campos, J., França, D. G. M., Amaral, S., Monteiro, A. M. V., & Körting, T. S. (2015). &quot;Land-cover classification of an intra-urban environment using high-resolution images and geographic object-based image analysis: the case of APA Mananciais do Rio Paraíba do Sul.&quot; In Procedings of the XVII Brazilian Symposium on Remote Sensing -- SBSR, João Pessoa (pp. 997-1004). São José dos Campos: INPE.
 
