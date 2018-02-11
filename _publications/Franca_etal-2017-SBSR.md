@@ -1,7 +1,7 @@
 ---
 title: "Segmentation as a pseudo-spatial resolution optimization method for Sentinel-2A images applied to sand pit detection in Cruzeiro do Sul, Acre"
 collection: publications
-permalink: /publication/Fraca_etal-2017-SBSR_d
+permalink: /publication/Franca_etal-2017-SBSR
 excerpt: 'Remote sensing, Sentinel-2, Forest degradation, Amazonia, Multiresolution Segmentation, Random Forest, Classification.'
 date: 2017-05-31
 venue: 'Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos.'
