@@ -5,7 +5,7 @@ permalink: /publication/Siani_etal-2017-SBSR_d
 excerpt: 'Remote sensing, Sentinel-2, Forest degradation, Amazonia, Multiresolution Segmentation, Random Forest, Classification.'
 date: 2017-05-31
 venue: 'Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos.'
-citation: 'França, D. G. M., Anderson, L. O., Virgílio, L. R.; **Siani, S. M. O.**, & Maia, M. R. S. A. (2017). &quot;Segmentation as a pseudo-spatial resolution optimization method for Sentinel-2A images applied to sand pit detection in Cruzeiro do Sul, Acre.&quot; In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. 8000-8007). São José dos Campos: INPE.'
+citation: 'França, D. G. M., Anderson, L. O., Virgílio, L. R.; Siani, S. M. O., & Maia, M. R. S. A. (2017). &quot;Segmentation as a pseudo-spatial resolution optimization method for Sentinel-2A images applied to sand pit detection in Cruzeiro do Sul, Acre.&quot; In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. 8000-8007). São José dos Campos: INPE.'
 ---
 
 **Abstract.** Sand pit extraction, known as “Canchas”, is recognized as one of the major environmental problems in
