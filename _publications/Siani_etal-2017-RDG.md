@@ -1,5 +1,5 @@
 ---
-title: "iSAM -- Socioenvironmental indicators for monitoring the Mananciais doRio Paraíba do Sul Protected Area with Sustainable Use (APA-MRPS)"
+title: "iSAM -- Socioenvironmental indicators for monitoring the Mananciais do Rio Paraíba do Sul Protected Area with Sustainable Use (APA-MRPS)"
 collection: publications
 permalink: /publication/Siani_etal-2017-RDG
 excerpt: 'Conservation unit; Socioenvironmental diagnosis;   Water  resources;   Sustainable   development; Assessment; Evaluation.'
