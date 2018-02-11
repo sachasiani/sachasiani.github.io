@@ -3,7 +3,7 @@ title: "iSAM -- Socioenvironmental indicators for monitoring the Mananciais do R
 collection: publications
 permalink: /publication/Siani_etal-2017-RDG
 excerpt: 'Conservation unit; Socioenvironmental diagnosis;   Water  resources;   Sustainable   development; Assessment; Evaluation.'
-date: Aug. 2017
+date: 2017-08-01
 venue: 'Revista do Departamento de Geografia'
 paperurl: 'http://dx.doi.org/10.11606/rdg.v33i0.119663 '
 citation: 'Siani, S. M. O., Amaral, S., & Monteiro, A. M. V. (2017). &quot;iSAM-Um sistema de indicadores para o monitoramento da Área de Proteção Ambiental Mananciais do Rio Paraíba do Sul. &quot; Revista do Departamento de Geografia, 33, 63-73. '
