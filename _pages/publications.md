@@ -26,3 +26,11 @@ Moura, Y., Galvão, L., Anderson, L., **Siani, S. M. O.**, & Aragão, L. (2017).
 **Siani, S. M. O.**, Escada, M. I. S., Amaral, S., & Monteiro, A. M. V. (2015). [A dinâmica dos padrões de cobertura urbana na Área de Proteção Ambiental Mananciais do Rio Paraíba do Sul.](http://urlib.net/8JMKD3MGP6W34M/3JM4D6B) In Procedings of the XVII Brazilian Symposium on Remote Sensing -- SBSR, João Pessoa (pp. 4691-4698). São José dos Campos: INPE.
 
 França, D. G. M., **Siani, S. M. O.**, & Moraes, E. C. (2015). [Análise da correção atmosférica por FLAASH sobre cenas OLI Landsat-8.](http://urlib.net/8JMKD3MGP6W34M/3JM4HUP) In Procedings of the XVII Brazilian Symposium on Remote Sensing -- SBSR, João Pessoa (pp. 6526–6533). São José dos Campos: INPE.
+
+Siani, S. M. O., Amaral, S., & Monteiro, A. M. V. (2014). [A Sustentabilidade e seu Arranjo Espacial no Município de Ubatuba, Litoral Norte de São Paulo: a construção de um indicador de desenvolvimento sustentável.](http://abep.info/files/trabalhos/trabalho_completo/TC-6-12-532-416.pdf) In Anais do Encontro Nacional de Estudos Populacionais. São Pedro, SP, Brasil: ABEP.
+
+Siani, S. M. O., & Monteiro, P. O. (2010). Diagnóstico Socioambiental do Bairro do Saco da Ribeira, Ubatuba-SP. In XV Encontro de Iniciação Científica da Universidade de Taubaté. Taubaté.
+
+## Thesis
+
+**Siani, S. M. O.** (2016). [iSAM -- Um sistema de indicadores para o monitoramento da Área de Proteção Ambiental Mananciais do Rio Paraíba do Sul.](http://urlib.net/8JMKD3MGP3W34P/3MHKPD8) Dissertation (Master in Remote Sensing). National Intitute for Space Research (INPE), São José dos Campos, 2016.
