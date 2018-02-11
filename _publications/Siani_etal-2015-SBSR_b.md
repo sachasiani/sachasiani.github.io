@@ -3,7 +3,7 @@ title: "A dinâmica dos padrões de cobertura urbana na Área de Proteção Ambi
 collection: publications
 permalink: /publication/Siani_etal-2015-SBSR_b
 excerpt: 'Land use, Land cover, Protected areas, Conservation unit, Sustainable use.'
-date: 2015-05-10
+date: 2015-06-01
 venue: 'Procedings of the XVII Brazilian Symposium on Remote Sensing -- SBSR, João Pessoa.'
 citation: Siani, S. M. O., Escada, M. I. S., Amaral, S., & Monteiro, A. M. V. (2015). &quot;A dinâmica dos padrões de cobertura urbana na Área de Proteção Ambiental Mananciais do Rio Paraíba do Sul.&quot; In Procedings of the XVII Brazilian Symposium on Remote Sensing -- SBSR, João Pessoa (pp. 4691-4698). São José dos Campos: INPE.'
 ---
