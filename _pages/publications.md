@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Working papers
+
+**Siani, S. M. O.**, Pessôa, A. C. M., Harding, T., Aragão, L. E. O. C., & Anderson, L. O. *The effects of environmental law enforcement on deforestation in Brazilian Amazon*.
+
+Pessôa, A. C. M., **Siani, S. M. O.**, Bento, B. P., Harding, T., Aragão, L. E. O. C., & Anderson, L. O. Reducing environmental impacts through land regulation policy: evidence from the Brazilian Amazon fires.
+
+Bento, B. P., **Siani, S. M. O.**, Pessoa, A. C. M., Aragão, L. E. O. C., Harding, T., & Anderson, L. O. Deforestation and forest cover dynamics in rural properties in the Brazilian Amazon.
+
+Vedovato, L. B., **Siani, S. M. O.**, Wagner, F. H., Gesteira, M., Arai, E., Anderson, L. O., & Aragão, L. E. O. C. Forest fragmentation relations with fire occurrence in the Brazilian Amazon.
+
 ## Journal articles
 
 **Siani, S. M. O.**, Amaral, S., & Monteiro, A. M. V. (2017). [iSAM-Um sistema de indicadores para o monitoramento da Área de Proteção Ambiental Mananciais do Rio Paraíba do Sul.](http://www.revistas.usp.br/rdg/article/download/119663/132867) Revista do Departamento de Geografia, 33, 63-73.
@@ -27,10 +37,10 @@ Moura, Y., Galvão, L., Anderson, L., **Siani, S. M. O.**, & Aragão, L. (2017).
 
 França, D. G. M., **Siani, S. M. O.**, & Moraes, E. C. (2015). [Análise da correção atmosférica por FLAASH sobre cenas OLI Landsat-8.](http://urlib.net/8JMKD3MGP6W34M/3JM4HUP) In Procedings of the XVII Brazilian Symposium on Remote Sensing -- SBSR, João Pessoa (pp. 6526–6533). São José dos Campos: INPE.
 
-Siani, S. M. O., Amaral, S., & Monteiro, A. M. V. (2014). [A Sustentabilidade e seu Arranjo Espacial no Município de Ubatuba, Litoral Norte de São Paulo: a construção de um indicador de desenvolvimento sustentável.](http://abep.info/files/trabalhos/trabalho_completo/TC-6-12-532-416.pdf) In Anais do Encontro Nacional de Estudos Populacionais. São Pedro, SP, Brasil: ABEP.
+Siani, S. M. O., Amaral, S., & Monteiro, A. M. V. (2014). [A Sustentabilidade e seu Arranjo Espacial no Município de Ubatuba, Litoral Norte de São Paulo: a construção de um indicador de desenvolvimento sustentável.](http://abep.info/files/trabalhos/trabalho_completo/TC-6-12-532-416.pdf) In Anais do Encontro Nacional de Estudos Populacionais. São Pedro: ABEP.
 
 Siani, S. M. O., & Monteiro, P. O. (2010). Diagnóstico Socioambiental do Bairro do Saco da Ribeira, Ubatuba-SP. In XV Encontro de Iniciação Científica da Universidade de Taubaté. Taubaté.
 
 ## Thesis
 
-**Siani, S. M. O.** (2016). [iSAM -- Um sistema de indicadores para o monitoramento da Área de Proteção Ambiental Mananciais do Rio Paraíba do Sul.](http://urlib.net/8JMKD3MGP3W34P/3MHKPD8) Dissertation (Master in Remote Sensing). National Intitute for Space Research (INPE), São José dos Campos, 2016.
+**Siani, S. M. O.** (2016). [iSAM -- Um sistema de indicadores para o monitoramento da Área de Proteção Ambiental Mananciais do Rio Paraíba do Sul.](http://urlib.net/8JMKD3MGP3W34P/3MHKPD8) Dissertation (Master in Remote Sensing). São José dos Campos: INPE.
