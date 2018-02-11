@@ -1,5 +1,5 @@
 ---
-title: "Segmentation as a pseudo-spatial resolution optimization method for Sentinel-2A images applied to sand pit detection in Cruzeiro do Sul, Acre"
+title: "Análise da correção atmosférica por FLAASH sobre cenas OLI Landsat-8"
 collection: publications
 permalink: /publication/Franca_etal-2015-SBSR
 excerpt: 'FLAASH, Remote sensing, Atmospheric correction. '
