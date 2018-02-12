@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Sacha Siani, an early-career scientist. So far, my research has focused on socio-environmental issues, using geoinformation, remote sensing and spatial analysis.
+Hi! I am Sacha Siani, an early-career scientist. So far, my research has focused on socio-environmental issues, using geoinformation, remote sensing and spatial analysis.
 
 I hold Master’s degree in Remote Sensing from National Institute for Space Research, Brazil (2016) and bachelor’s degree in Environmental and Sanitary Engineering from University of Taubaté (2012). 
 
