@@ -37,9 +37,9 @@ Moura, Y., Galvão, L., Anderson, L., **Siani, S. M. O.**, & Aragão, L. (2017).
 
 França, D. G. M., **Siani, S. M. O.**, & Moraes, E. C. (2015). [*Análise da correção atmosférica por FLAASH sobre cenas OLI Landsat-8.*](http://urlib.net/8JMKD3MGP6W34M/3JM4HUP) In Procedings of the XVII Brazilian Symposium on Remote Sensing -- SBSR, João Pessoa (pp. 6526–6533). São José dos Campos: INPE.
 
-Siani, S. M. O., Amaral, S., & Monteiro, A. M. V. (2014). [*A Sustentabilidade e seu Arranjo Espacial no Município de Ubatuba, Litoral Norte de São Paulo: a construção de um indicador de desenvolvimento sustentável.*](http://abep.info/files/trabalhos/trabalho_completo/TC-6-12-532-416.pdf) In Anais do Encontro Nacional de Estudos Populacionais. São Pedro: ABEP.
+**Siani, S. M. O.**, Amaral, S., & Monteiro, A. M. V. (2014). [*A Sustentabilidade e seu Arranjo Espacial no Município de Ubatuba, Litoral Norte de São Paulo: a construção de um indicador de desenvolvimento sustentável.*](http://abep.info/files/trabalhos/trabalho_completo/TC-6-12-532-416.pdf) In Anais do Encontro Nacional de Estudos Populacionais. São Pedro: ABEP.
 
-Siani, S. M. O., & Monteiro, P. O. (2010). *Diagnóstico Socioambiental do Bairro do Saco da Ribeira, Ubatuba-SP.* In XV Encontro de Iniciação Científica da Universidade de Taubaté. Taubaté.
+**Siani, S. M. O.**, & Monteiro, P. O. (2010). *Diagnóstico Socioambiental do Bairro do Saco da Ribeira, Ubatuba-SP.* In XV Encontro de Iniciação Científica da Universidade de Taubaté. Taubaté.
 
 ## Thesis
 
