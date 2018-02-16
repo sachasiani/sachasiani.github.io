@@ -27,7 +27,7 @@ Pessôa, A. C. M., **Siani, S. M. O.**, Harding, T., & Anderson, L. O. (2017). [
 
 Pletsch, M. A. J. S., Körting, T. S., Escada, M. I. S., & **Siani, S. M. O.** (2017). [*Data mining applied to temporal dynamics of deforestation pattern: a study case in Southern Amazon forest, Brazil.*](http://urlib.net/8JMKD3MGP6W34M/3PSMDRS) In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. 6959-6966). São José dos Campos: INPE.
 
-França, D. G. M., Anderson, L. O., Virgílio, L. R.; **Siani, S. M. O.**, & Maia, M. R. S. A. (2017). [*Segmentation as a pseudo-spatial resolution optimization method for Sentinel-2A images applied to sand pit detection in Cruzeiro do Sul, Acre.*](http://urlib.net/8JMKD3MGP6W34M/3PSMGQ5) In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. 8000-8007). São José dos Campos: INPE.
+França, D. G. M., Anderson, L. O., Virgílio, L. R.; **Siani, S. M. O.**, & Maia, M. R. S. A. (2017). [*Random forest classification applied to sand pit detection in Cruzeiro do Sul, Acre, Brazilian Amazon.*](http://urlib.net/8JMKD3MGP6W34M/3PSMGQ5) In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. 8000-8007). São José dos Campos: INPE.
 
 Moura, Y., Galvão, L., Anderson, L., **Siani, S. M. O.**, & Aragão, L. (2017). *Use of Green-Red Normalized Difference (GRND) index to evaluate large-scale canopy phenology in tropical forests.* In EGU General Assembly 2017 (Vol. 19, p. 10162). Vienna.
 
