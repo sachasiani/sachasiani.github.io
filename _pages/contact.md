@@ -17,8 +17,10 @@ author_profile: true
   <br /> 
   Tel.: +55 (12) 3208 6465
   <br /> 
-  E-mail: ssiani@indiana.edu
+  E-mail: 
+  <br />
+  ssiani@indiana.edu
   <br /> 
-          sachasiani@gmail.com
+  sachasiani@gmail.com
 </address>
 
