@@ -17,6 +17,8 @@ Vedovato, L. B., **Siani, S. M. O.**, Wagner, F. H., Gesteira, M., Arai, E., And
 
 ## Journal articles
 
+Omachi, C. Y., **Siani, S. M. O.**, Chagas, F., Mascagni, M., Cordeiro, M., Garcia, G., Thompson, C. C., Siegle, E., Thompson, F. L. (2018). [*Atlantic Forest loss caused by the world's largest tailing dam collapse (Fundão Dam, Mariana, Brazil)*](https://doi.org/10.1016/j.rsase.2018.08.003). Remote Sensing Applications: Society and Environment.
+
 **Siani, S. M. O.**, Amaral, S., & Monteiro, A. M. V. (2017). [*iSAM-Um sistema de indicadores para o monitoramento da Área de Proteção Ambiental Mananciais do Rio Paraíba do Sul.*](http://www.revistas.usp.br/rdg/article/download/119663/132867) Revista do Departamento de Geografia, 33, 63-73.
 
 ## Conference proceedings
