@@ -13,6 +13,8 @@ author_profile: true
   Indiana University
   <br /> 
   Student Building 331
+  <br />
+  701 E. Kirkwood Avenue
   <br /> 
   Bloomington, IN, USA 47405
   <br />
