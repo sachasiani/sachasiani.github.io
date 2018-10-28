@@ -8,19 +8,17 @@ author_profile: true
 **National Institute for Space Research -- INPE**
  
 <address>
-  Av. dos Astronautas, 1758 -- SERE, office 6
+  Center for the Analysis of Social-Ecological Landscapes (CASEL)
   <br /> 
-  Jardim da Granja - CEP 12227-010
+  Indiana University
   <br /> 
-  São José dos Campos, São Paulo, Brazil
+  Student Building 331
+  <br /> 
+  Bloomington, IN, USA 47405
   <br />
   <br /> 
-  Tel.: +55 (12) 3208 6465
+  Tel.: +1 (812) 606-9754
   <br /> 
-  E-mail: 
-  <br />
-  ssiani@indiana.edu
-  <br /> 
-  sachasiani@gmail.com
+  E-mail: ssiani@indiana.edu
 </address>
 
