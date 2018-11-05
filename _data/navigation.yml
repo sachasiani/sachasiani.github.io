@@ -10,17 +10,17 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/   
     
-  - title: "CV"
-    url: http://sachasiani.github.io/files/siani_cv-10_28_2018.pdf
-
-  - title: "Contact"
-    url: /contact/
-    
-  - title: "Datavis"
+  - title: "DataVis"
     url: /datavis/
     
   - title: "Tutorials"
     url: /tutorials/
+    
+  - title: "CV"
+    url: http://sachasiani.github.io/files/siani_cv-10_28_2018.pdf
+
+  - title: "Contact"
+    url: /contact/    
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
