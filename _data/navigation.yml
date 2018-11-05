@@ -3,15 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+#  - title: "Talks"
 #    url: /talks/ 
-    url: /talks_/    
+#    url: /talks_/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Graphic detail"
-    url: /graphic-detail/
+#  - title: "Graphic detail"
+#    url: /graphic-detail/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
