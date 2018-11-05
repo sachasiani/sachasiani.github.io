@@ -8,19 +8,22 @@ main:
 #    url: /talks_/    
 
 #  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Graphic detail"
-#    url: /graphic-detail/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
+#    url: /teaching/   
     
   - title: "CV"
     url: http://sachasiani.github.io/files/siani_cv-10_28_2018.pdf
 
   - title: "Contact"
     url: /contact/
+    
+  - title: "Datavis"
+    url: /datavis/
+    
+  - title: "Tutorials"
+    url: /tutorials/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
 #  - title: "Guide"
 #    url: /markdown/
