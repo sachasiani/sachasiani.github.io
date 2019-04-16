@@ -23,6 +23,8 @@ Omachi, C. Y., **Siani, S. M. O.**, Chagas, F., Mascagni, M., Cordeiro, M., Garc
 
 ## Conference proceedings
 
+**Siani, S. M. O.**, Pessôa, A. C. M., Bento, B. P., Harding, T., & Anderson, L. O. (2019). [*Avaliação da Efetividade das Areas de Proteção Ambiental em Reduzir o Desmatamento na Amazônia Brasileira*](http://urlib.net/8JMKD3MGP6W34M/3PSMFPD) In Procedings of the XIX Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. XX–XX). São José dos Campos: INPE.
+
 **Siani, S. M. O.**, Pessôa, A. C. M., Harding, T., & Anderson, L. O. (2017). [*Spatial analysis of enforcement for reducing deforestation in the Brazilian Amazon: an exploratory study in Pará state.*](http://urlib.net/8JMKD3MGP6W34M/3PSMFPD) In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. 7451–7458). São José dos Campos: INPE.
 
 Pessôa, A. C. M., **Siani, S. M. O.**, Harding, T., & Anderson, L. O. (2017). [*The role of Protected Areas on active fires occurrence: an exploratory study in Acre state, Brazilian Amazon.*](http://urlib.net/8JMKD3MGP6W34M/3PSMFKF) In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (pp. 7382-7389). São José dos Campos: INPE.
