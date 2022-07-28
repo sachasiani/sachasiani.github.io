@@ -1,0 +1,45 @@
+---
+title: "About me"
+toc: false
+sidebar: false
+---
+
+::: column-margin
+![](resources/figs/headshot-01.png){fig-alt="Sacha headshot" fig-align="center" width="175"}
+
+**Sacha M. O. Siani** *(he/ele)*
+
+PhD Candidate\
+Department of Geography\
+Indiana University
+:::
+
+Hi! I am Sacha Maruã Ortiz Siani (he/ele), an early-career scientist. So far, my research has focused on socio-ecological system analysis, using geoinformation, remote sensing, spatial analysis and policy analysis.
+
+Currently I am a PhD candidate in the Department of Geography at Indiana University-Bloomington (IUB). My PhD research will focus on the effects of conservation policies on deforestation and forest degradation, as well as their social and economic impacts, in the Brazilian Amazon. I hold Master's degree in Remote Sensing from National Institute for Space Research, Brazil (2016) and bachelor's degree in Environmental and Sanitary Engineering from University of Taubaté (2012).
+
+[Professor Eduardo S. Brondizio](https://anthropology.indiana.edu/about/faculty/brondizio-eduardo.html) (Department of Anthropology at IUB, USA)
+
+In my master's thesis, titled *Socioenvironmental indicators for monitoring the Mananciais do Rio Paraíba do Sul Protected Area with Sustainable Use*, I developed a spatially explicit indicator system to support a socioenvironmental diagnosis and monitoring the protected area. The system consists of a set of indicators, based on remote sensing and census data, which aims to identify and locate in space the conditions for water sources protection and sociodemographic differences within the resident population. Based on these indicators, I developed a socioenvironmental diagnostic of the protected area, considering its specificities, and allowing distinction between different social, economic and ecological contexts. The system is currently being used by the environmental agency to support planning and, in the future, the management and systematic monitoring of the protected area. The conceptual framework developed as part of this project has the potential to be used for planning and monitoring protected areas elsewhere. [Dr. Silvana Amaral](http://www.dpi.inpe.br/DPI/acesso-a-informacao/pessoal/servidores/silvana-amaral-kampel) and [Dr. Antonio Miguel V. Monteiro](http://www.dpi.inpe.br/DPI/acesso-a-informacao/pessoal/servidores/antonio-miguel-vieira-monteiro), senior researchers at INPE, supervised this research.
+
+Since completing my master's degree in August 2016, I joined the project [Tropical Deforestation and Economic Development](https://www.nhh.no/en/research-centres/tropical-deforestation/project/) as a research assistant. Broadly speaking, the project aimed at contributing to the understanding of the effects of structural change and urbanization on tropical deforestation. The project was co-led by [Dr. Torfinn Harding](https://www.sites.google.com/site/torfinnharding) (Norwegian School of Economics -- NHH) and [Dr. Liana Anderson](https://www.liana-anderson.org/) (CEMADEN -- Brazil).
+
+Outside of work, I love surfing, brazilian jiu-jitsu and hiking. I am from Ubatuba-SP, a beautiful small town in the coast of Brasil, but I currently live in Bloomington, IN, USA, with my partner and our dog.
+
+::: column-margin
+This is Ubatuba, my hometown in Brazil:
+
+![](resources/figs/ubatuba.jpg){fig-alt="Ubatuba landscape" fig-align="center"} Credit: Bruno Amir
+:::
+
+## Contact
+
+> **E-mail: ssiani\@iu.edu**
+>
+> Center for the Analysis of Social-Ecological Landscapes (CASEL)\
+> Indiana University\
+> Student Building 331\
+> 701 E. Kirkwood Avenue\
+> Bloomington, IN, USA 47405
+>
+> **Land Acknowledgement** *I acknowledge and honor the myaamiaki, Lënape, Bodwéwadmik, and saawanwa people, on whose ancestral homelands and resources IU Bloomington is built.*

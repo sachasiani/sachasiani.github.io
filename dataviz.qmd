@@ -1,0 +1,19 @@
+---
+title: "DataViz"
+toc: false
+sidebar: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+I love working on creating data analysis and visualization, especially geospatial data. Here I am sharing some figures that I am proud of. They were developed for research projects, consultancies, or just fun.
+
+For data vizualization, my favorite tools are R (mainly ggplot2) and QGIS. I also use Google Earth Engine to preprocess all the geospatial data. Sometimes I also use Adobe Illustrator for final edits. 
+<br> <br>

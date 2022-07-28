@@ -1,0 +1,7 @@
+---
+title: "Teaching Statement"
+toc: false
+sidebar: teaching
+---
+
+## Lorem ipsum
