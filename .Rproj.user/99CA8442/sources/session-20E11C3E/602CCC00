@@ -1,9 +1,9 @@
 {
     "id": "602CCC00",
-    "path": "C:/Users/Siani/Downloads/_teste/index.qmd",
+    "path": "~/github/sachasiani.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2515125842",
+    "hash": "333192595",
     "contents": "",
     "dirty": false,
     "created": 1657417476135.0,
@@ -17,15 +17,15 @@
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2969:1427.77783203125",
         "docOutlineVisible": "1",
-        "cursorPosition": "14,3",
-        "scrollLine": "0"
+        "cursorPosition": "7,90",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657733646,
+    "lastKnownWriteTime": 1658977140,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657733646201,
+    "last_content_update": 1658977140205,
     "read_only": false,
     "read_only_alternatives": []
 }
